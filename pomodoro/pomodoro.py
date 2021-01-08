@@ -1,4 +1,4 @@
-from waiter import Waiter
+from .waiter import Waiter
 
 class Pomodoro(object):
     second = 1
